@@ -2,7 +2,7 @@
 
 Due  | Value
 ------- | -------
-September 21 | 100 Points
+Weekly | 10 Points
 
 ## Objectives
 + Produce at least **two** portfolio-quality projects
@@ -30,6 +30,7 @@ These projects may be created individually or as a group
 Plans for collaborative projects must address each collaborator's weekly check point.
 		> *Example:*<br>
 		> Week 2:
+		
 		- Suzy: sketches finished <br>
 		- Johnny: character movement scripts finished <br>
 		- Malcolm: script finalized
