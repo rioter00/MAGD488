@@ -2,18 +2,6 @@
 ## Advanced MAGD Team Projects
 ## Syllabus – Fall 2016
 
-- [Course Description](#course-description)
-- [Course Objectives](#course-objectives)
-	- [Attendance & Student Expectations](#attendance-student-expectations)
-	- [How I Will Communicate With You](#how-i-will-communicate-with-you)
-	- [Media Caveat](#media-caveat)
-	- [Academic Misconduct](#academic-misconduct)
-- [UWW Statement](#uww-statement)
-- [Assignments](#assignments)
-- [Grading Scale](#grading-scale)
-- [Tentative Schedule](#tentative-schedule)
-
-
 - Instructor: Nick Hwang
 - Office: McGraw 105
 - Office Hours: TBD
