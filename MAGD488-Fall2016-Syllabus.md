@@ -129,10 +129,10 @@ WEEK	| DATE	| Presentations / Work | Assigned
 6	| \*10/12/2016	| Meetings with students, progress checks and work time  |
 7	| \*10/19/2016	| Meetings with students, progress checks and work time |
 8	| 10/26/2016	| **Resume Presentations and Workshop** |
-9	| 11/02/2016	| ** Mid-semester portfolio/project presentation** |
+9	| 11/02/2016	| Meetings with students, progress checks and work time presentation |
 10	| 11/9/2016	| Meetings with students, progress checks and work time |
 11	| 11/16/2016	| Meetings with students, progress checks and work time |
 12	| 11/23/2016	|  \**Thanksgiving*\* |
 13	| 11/30/2016	| Meetings with students, progress checks and work time |
 14	| 12/07/2016	| Meetings with students, progress checks and work time |
-Exam	| 12/21/2016	| **Final Portfolio presentations, Final Portfolio due, Revised Resume due**  |
+Exam	| 12/21/2016	| **Final Presentations, Revised Resume due**  |
