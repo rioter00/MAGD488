@@ -2,6 +2,18 @@
 ## Advanced MAGD Team Projects
 ## Syllabus – Fall 2016
 
+- [Course Description](#course-description)
+- [Course Objectives](#course-objectives)
+	- [Attendance & Student Expectations](#attendance-student-expectations)
+	- [How I Will Communicate With You](#how-i-will-communicate-with-you)
+	- [Media Caveat](#media-caveat)
+	- [Academic Misconduct](#academic-misconduct)
+- [UWW Statement](#uww-statement)
+- [Assignments](#assignments)
+- [Grading Scale](#grading-scale)
+- [Tentative Schedule](#tentative-schedule)
+
+
 - Instructor: Nick Hwang
 - Office: McGraw 105
 - Office Hours: TBD
@@ -20,11 +32,7 @@
 
 
 ## Course Description
-As the culmination of the Media Arts and Game Development sequence, students taking this class will create a portfolio of their work in the MAGD program. Students will research effective portfolio building methods. Students will also search jobs in their market, create resumes, and practice creating cover letters.
-
-Through this course, we will video chat with various professionals in relevant fields, learning about their career trajectory. Students will be have QA sessions on job hunting, current field trends, and other relevant skills.
-
-After an initial version is live, students will expand their portfolios with content projects.
+The goal of this class is to learn effective digital project management and deliver a completed project to professional standards. Students will take a Beta stage project developed in MAGD 487 to completion, or begin a new project (with permission of the instructor). Projects will be developed according to current industry practice using project specification, schedules with milestones, online project management tools, user experience testing and version control. Marketing and commercial development will be explored and students will be encouraged to transition final projects to the commercial environment where appropriate.
 
 ## Course Objectives
 At the end of the course students will have:
@@ -112,19 +120,19 @@ F	| 0 - 59	| Poor/Fail
 Dates and topics subject to change
 
 WEEK	| DATE	| Presentations / Work | Assigned
-------| ------| -------------------- | --------:
-1	| 9/08/2016	| Introduction to the class |   
-2	| 9/15/2016	| **Explanation of meetings with students, progress checks and work time** |   1. [Portfolio Research Assignment](PortfolioResearchAssignment.md)
-3	| 9/22/2016	| **Portfolio Research Presentations** |2. [Portfolio Development Project](PortfolioCreationAssignment.md) <br><br> 3. [Resume Building Assignment](ResumeAssignment.md)
-4	| \*9/29/2016	| Meetings with students, progress checks and work time |
-5	| 10/06/2016	| Meetings with students, progress checks and work time <br> - Chris D. - | 4. Cover Letter Assignment
-6	| \*10/13/2016	| Meetings with students, progress checks and work time  |
-7	| \*10/20/2016	| Meetings with students, progress checks and work time |
-8	| 10/27/2016	| **Resume and Cover Letter Presentations and Workshop** |
-9	| 11/03/2016	| **6. Mid-semester portfolio/project presentation** | 7. Portfolio Expansion Projects Outlined
-10	| 11/10/2016	| Meetings with students, progress checks and work time |
-11	| 11/17/2016	| Meetings with students, progress checks and work time |
-12	| 11/24/2016	|  \**Thanksgiving*\* |
-13	| 12/01/2016	| Meetings with students, progress checks and work time <br> - Carolyn B - |
-14	| 12/08/2016	| Meetings with students, progress checks and work time |
-Exam	| 12/15/2016	| **Final Portfolio presentations, Final Portfolio due, Revised Resume due**  |
+:----:| ------| -------------------- | --------:
+1	| 9/07/2016	| Introduction to the class |   
+2	| 9/14/2016	| **Portfolio Research Presentations** <br> - Team Development <br> Explanation of meetings with students, progress checks and work time |   1. [Portfolio Research Assignment](PortfolioResearchAssignment.md)
+3	| 9/21/2016	| **Portfolio Research Presentations** | 2. [Portfolio Development Project](PortfolioCreationAssignment.md) <br><br> 3. [Resume Building Assignment](ResumeAssignment.md)
+4	| \*9/28/2016	| Meetings with students, progress checks and work time |
+5	| 10/05/2016	| Meetings with students, progress checks and work time <br> - Chris D. - | 4. Cover Letter Assignment
+6	| \*10/12/2016	| Meetings with students, progress checks and work time  |
+7	| \*10/19/2016	| Meetings with students, progress checks and work time |
+8	| 10/26/2016	| **Resume and Cover Letter Presentations and Workshop** |
+9	| 11/02/2016	| **6. Mid-semester portfolio/project presentation** | 7. Portfolio Expansion Projects Outlined
+10	| 11/9/2016	| Meetings with students, progress checks and work time |
+11	| 11/16/2016	| Meetings with students, progress checks and work time |
+12	| 11/23/2016	|  \**Thanksgiving*\* |
+13	| 11/30/2016	| Meetings with students, progress checks and work time <br> - Carolyn B - |
+14	| 12/07/2016	| Meetings with students, progress checks and work time |
+Exam	| 12/21/2016	| **Final Portfolio presentations, Final Portfolio due, Revised Resume due**  |
