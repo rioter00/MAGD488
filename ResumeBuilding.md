@@ -1,4 +1,4 @@
-# MAGD 487 - RESUME BUILDING REFERENCE
+# MAGD 488 - RESUME BUILDING REFERENCE
 
 ## Objectives
 + Research critical elements for an effective resume
