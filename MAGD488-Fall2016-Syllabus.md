@@ -121,18 +121,18 @@ Dates and topics subject to change
 
 WEEK	| DATE	| Presentations / Work | Assigned
 :----:| ------| -------------------- | --------:
-1	| 9/07/2016	| Introduction to the class |   
-2	| 9/14/2016	| **Portfolio Research Presentations** <br> - Team Development <br> Explanation of meetings with students, progress checks and work time |   1. [Portfolio Research Assignment](PortfolioResearchAssignment.md)
-3	| 9/21/2016	| **Portfolio Research Presentations** | 2. [Portfolio Development Project](PortfolioCreationAssignment.md) <br><br> 3. [Resume Building Assignment](ResumeAssignment.md)
+1	| 9/07/2016	| Introduction to the class |
+2	| 9/14/2016	| **Portfolio Presentations** <br> - Team Development <br> - Explanation of meetings with students, progress checks and work time |   1. [Resume Assignment](ResumeAssignment.md)
+3	| 9/21/2016	| **Project Plan Due** |
 4	| \*9/28/2016	| Meetings with students, progress checks and work time |
-5	| 10/05/2016	| Meetings with students, progress checks and work time <br> - Chris D. - | 4. Cover Letter Assignment
+5	| 10/05/2016	| Meetings with students, progress checks and work time  |
 6	| \*10/12/2016	| Meetings with students, progress checks and work time  |
 7	| \*10/19/2016	| Meetings with students, progress checks and work time |
-8	| 10/26/2016	| **Resume and Cover Letter Presentations and Workshop** |
-9	| 11/02/2016	| **6. Mid-semester portfolio/project presentation** | 7. Portfolio Expansion Projects Outlined
+8	| 10/26/2016	| **Resume Presentations and Workshop** |
+9	| 11/02/2016	| ** Mid-semester portfolio/project presentation** |
 10	| 11/9/2016	| Meetings with students, progress checks and work time |
 11	| 11/16/2016	| Meetings with students, progress checks and work time |
 12	| 11/23/2016	|  \**Thanksgiving*\* |
-13	| 11/30/2016	| Meetings with students, progress checks and work time <br> - Carolyn B - |
+13	| 11/30/2016	| Meetings with students, progress checks and work time |
 14	| 12/07/2016	| Meetings with students, progress checks and work time |
 Exam	| 12/21/2016	| **Final Portfolio presentations, Final Portfolio due, Revised Resume due**  |
