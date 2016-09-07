@@ -30,10 +30,12 @@ These projects may be created individually or as a group
 Plans for collaborative projects must address each collaborator's weekly check point.
 		> *Example:*<br>
 		> Week 2:
-		
-		- Suzy: sketches finished <br>
-		- Johnny: character movement scripts finished <br>
+
+		- Suzy: sketches finished
+		- Johnny: character movement scripts finished
 		- Malcolm: script finalized
+
+Collaborative Projects must address a collaboration tool for communication: Trello, GChat, Facebook. The instructor must be included in this tool. 
 
 Projects may run concurrently or consecutively.
 
