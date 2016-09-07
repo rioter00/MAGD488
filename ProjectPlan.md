@@ -2,7 +2,7 @@
 
 Due  | Value
 ------- | -------
-September 21 | 100 Points
+September 21 | 100 Points Each
 
 ## Objectives
 + Produce at least **two** portfolio-quality projects
@@ -35,7 +35,7 @@ Plans for collaborative projects must address each collaborator's weekly check p
 		- Johnny: character movement scripts finished
 		- Malcolm: script finalized
 
-Collaborative Projects must address a collaboration tool for communication: Trello, GChat, Facebook. The instructor must be included in this tool. 
+Collaborative Projects must address a collaboration tool for communication: Trello, GChat, Facebook. The instructor must be included in this tool.
 
 Projects may run concurrently or consecutively.
 

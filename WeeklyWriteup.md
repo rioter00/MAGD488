@@ -2,7 +2,7 @@
 
 Due  | Value
 ------- | -------
-Weekly | 10 Points
+Weekly | 20 Points
 
 ## Objectives
 + Produce a weekly document reporting specific weekly work, adjustments to plan, and specific expectations for next week
