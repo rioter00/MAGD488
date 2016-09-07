@@ -1,17 +1,19 @@
 # MAGD 488 - Advanced MAGD Team Projects - Project Plan
 
-
+Due  | Value
+------- | -------
+September 21 | 100 Points
 
 ## Objectives
 + Produce at least **two** portfolio-quality projects
 
 ## Procedure
-+ Brainstorm **two** projects with will expand your portfolio
-+ These projects may be created individually or as a group
+1. Brainstorm **two** projects that will expand your portfolio.
+These projects may be created individually or as a group
 
-+ Each project plan must
+2. Each project plan must
 	+	Be Digitally produced (Microsoft Word, Google Docs)
-	+ Address stages of _weekly_ progress
+	+ Address stages of _weekly_ progress including:
 		1. 'first prototype'
 		2. 'peer review'
 		3. 'revision'
@@ -25,11 +27,13 @@
 	> Week 8 - final version complete
 
 
-Collaborative projects must address each collaborator's weekly plan.
-> *Example:*<br>
-> Week 2:
-- Suzy: sketches finished <br>
-- Johnny: character movement scripts finished <br>
-- Malcolm: script finalized
+Plans for collaborative projects must address each collaborator's weekly check point.
+		> *Example:*<br>
+		> Week 2:
+		- Suzy: sketches finished <br>
+		- Johnny: character movement scripts finished <br>
+		- Malcolm: script finalized
 
-Projects may run concurrently or consecutively. 
+Projects may run concurrently or consecutively.
+
+You will bring this project plan in each week along with the project materials and weekly writeup.
