@@ -15,6 +15,6 @@ Weekly | 20 Points
 
 Example:
 
-Accomplished | Expectations
+Accomplished last week | Expectations this week
 :---------|---------
 Recorded all voiceover materials | Editing, cleaning, cataloging all usable takes.
