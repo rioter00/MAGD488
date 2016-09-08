@@ -35,7 +35,7 @@ Plans for collaborative projects must address each collaborator's weekly check p
 		- Johnny: character movement scripts finished
 		- Malcolm: script finalized
 
-Collaborative projects must address a collaboration tool for communication: Trello, GChat, Facebook. **The instructor must be included in this tool.**
+Collaborative projects must address a collaboration tool for communication: [Trello](http://trello), GChat, [Asana](http://asana.com), [Slack](http://slack.com), [Facebook](http://messenger.com). **The instructor must be included in this tool.**
 
 Collaborative projects may follow any collaborative project methodology.
 
