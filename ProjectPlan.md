@@ -5,7 +5,7 @@ Due  | Value
 September 21 | 100 Points Each
 
 ## Objectives
-+ Produce at least **two** portfolio-quality projects
++ Produce plans for at least **two** portfolio-quality projects
 
 ## Procedure
 1. Brainstorm **two** projects that will expand your portfolio.
