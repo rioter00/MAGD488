@@ -1,4 +1,4 @@
-# MAGD 488 - Advanced MAGD Team Projects - WeeklyWriteup
+# MAGD 488 - Advanced MAGD Team Projects - Weekly Writeup
 
 Due  | Value
 ------- | -------
