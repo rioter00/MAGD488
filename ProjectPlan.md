@@ -30,8 +30,7 @@ These projects may be created individually or as a group
 Plans for collaborative projects must address each collaborator's weekly check point.
 
 		*Example:*
-		> Week 2:
-
+		Week 2:
 		- Suzy: sketches finished
 		- Johnny: character movement scripts finished
 		- Malcolm: script finalized
