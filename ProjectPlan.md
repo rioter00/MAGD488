@@ -28,6 +28,7 @@ These projects may be created individually or as a group
 
 
 Plans for collaborative projects must address each collaborator's weekly check point.
+
 		> *Example:*<br>
 		> Week 2:
 
