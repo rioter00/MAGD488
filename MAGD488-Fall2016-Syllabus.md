@@ -109,7 +109,7 @@ WEEK	| DATE	| Presentations / Work | Assigned
 :----:| ------| -------------------- | --------:
 1	| 9/07/2016	| Introduction to the class | [Resume Assignment](ResumeAssignment.md)
 2	| 9/14/2016	| **Portfolio Presentations** <br> - Team Development <br> - Explanation of meetings with students, progress checks and work time |  [Project Plan Assignment](ProjectPlan.md)
-3	| 9/21/2016	| Meetings with students, progress checks and work time |
+3	| 9/21/2016	| **Project Plans Due** <br> Meetings with students, progress checks and work time |
 4	| 9/28/2016	| Meetings with students, progress checks and work time |
 5	| 10/05/2016	| Meetings with students, progress checks and work time  |
 6	| \*10/12/2016	| - No Class -  |
