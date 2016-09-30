@@ -114,8 +114,8 @@ WEEK	| DATE	| Presentations / Work | Assigned
 5	| 10/05/2016	| Meetings with students, progress checks and work time  |
 6	| \*10/12/2016	| - No Class -  |
 7	| \10/19/2016	| Meetings with students, progress checks and work time |
-8	| 10/26/2016	| **Resume Presentations and Workshop** |
-9	| 11/02/2016	| Meetings with students, progress checks and work time presentation |
+8	| 10/26/2016	| - No Class -  |
+9	| 11/02/2016	| **Resume Presentations and Workshop** ||
 10	| 11/9/2016	| Meetings with students, progress checks and work time |
 11	| 11/16/2016	| Meetings with students, progress checks and work time |
 12	| 11/23/2016	|  \**Thanksgiving*\* |
