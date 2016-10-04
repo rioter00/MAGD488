@@ -111,9 +111,9 @@ WEEK	| DATE	| Presentations / Work | Assigned
 2	| 9/14/2016	| **Portfolio Presentations** <br> - Team Development <br> - Explanation of meetings with students, progress checks and work time |  [Project Plan Assignment](ProjectPlan.md)
 3	| 9/21/2016	| **Project Plans Due** <br> Meetings with students, progress checks and work time |
 4	| 9/28/2016	| Meetings with students, progress checks and work time |
-5	| 10/05/2016	| Meetings with students, progress checks and work time  |
-6	| \*10/12/2016	| - No Class -  |
-7	| \10/19/2016	| Meetings with students, progress checks and work time |
+5	| 10/05/2016	| Meetings with students, progress checks and work time |
+6	| 10/12/2016	| Meetings with students, progress checks and work time |
+7	| 10/19/2016	| Meetings with students, progress checks and work time |
 8	| 10/26/2016	| - No Class -  |
 9	| 11/02/2016	| **Resume Presentations and Workshop** ||
 10	| 11/9/2016	| Meetings with students, progress checks and work time |
