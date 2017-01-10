@@ -20,4 +20,4 @@ Accomplished last week | Expectations this week
 :---------|---------
 Recorded all voiceover materials | Editing, cleaning, cataloging all usable takes.
 
-	Discussion: I've decided to change the 'character' from Drow to Brown Orc.
+	Discussion: I've decided to change the 'voice' of the Brown Orc to Pirate.
