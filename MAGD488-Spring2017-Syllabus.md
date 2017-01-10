@@ -78,10 +78,10 @@ Assignment | Value
 1. Project Presentation | 200 pts
 2. Project Plans | 100 pts
 3. Weekly Checkins | 20 pts x 10
-4. Resume Assignment | 100 pts
+4. Job Seeking Assignment | 100 pts x 2
 5. Final Revised Resume | 100 pts
 6. Final Projects | 300 pts
-**Total** | **1000**
+**Total** | **1100**
 
 It is your responsibility to keep track of your grades over the course of the semester. Your grades are posted on D2L and can be checked at any time. You earn your grades by the degree to which you meet the requirements of the assignments. If you find that you are not doing as well as you would like to be doing, you can meet with me to discuss extra credit projects BEFORE the end of the semester. If you feel that I have made a mistake recording a grade that you earned, I encourage you to email me, politely, so that it can be corrected.  
 
