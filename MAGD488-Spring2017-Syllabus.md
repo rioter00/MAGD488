@@ -115,7 +115,7 @@ WEEK	| DATE	| Presentations / Work / Due| Assigned
 06	| 02/28/2017	| - No Class - |
 07	| 03/07/2017	| - No Class - |
 08	| 03/14/2017	| 1. [**Job Seeking Assignment Part 1 Due**](JobSeekingAssignment.md) <br> 2. [**Weekly Writeup Due**](https://github.com/rioter00/MAGD488/blob/master/WeeklyWriteup.md) <br>Meetings with students, progress checks and work time |
-09	| 03/21/2017	| **Spring Break** (No Class)|
+09	| 03/21/2017	| **Spring Break**  <br> - No Class -|
 10	| 03/28/2017	| [**Weekly Writeup Due**](https://github.com/rioter00/MAGD488/blob/master/WeeklyWriteup.md) <br> Meetings with students, progress checks and work time |
 11	| 04/04/2017	| [**Weekly Writeup Due**](https://github.com/rioter00/MAGD488/blob/master/WeeklyWriteup.md) <br> Project Presentation and Feedback |
 12	| 04/11/2017	| [**Weekly Writeup Due**](https://github.com/rioter00/MAGD488/blob/master/WeeklyWriteup.md) <br> Project Presentation and Feedback |
