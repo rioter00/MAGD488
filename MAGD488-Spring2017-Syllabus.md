@@ -13,7 +13,7 @@
 - Meeting times: Wednesday, 6:30pm-9pm
 	- Meeting Location: McGraw 127
 	- Exam: Tuesday, May 9, 2017, 4:45-6:45pm [UWW exam schedule](http://www.uww.edu/Documents/registrar/Schedule_of_Classes/Spring_2017/2017%20Spring%20Exam%20Schedule.pdf)
-	- Course Website: on D2L (Desire 2 Learn)
+	- Course Website: https://github.com/rioter00/MAGD488
 
 
 - [UWW Academic Calendars](http://uww-public.courseleaf.com/general-information/academic-legal-policies/academic-calendar/#springterm2016text)
@@ -24,7 +24,7 @@ The goal of this class is to learn effective digital project management and deli
 
 ## Course Objectives
 At the end of the course students will have:
-- Having designed and implemented an online portfolio, students will have created one to two major projects that will contribute to their body of work
+- Having designed and implemented an online portfolio, students will have created two major projects that will contribute to their body of work
 - Positioned themselves within the relevant field(s)/market(s) for career opportunities
 - Identify areas where you need to improve your skills, develop a strategy for doing so, and follow through with one set of skills
 - Learn and practice effective digital project management
@@ -55,7 +55,6 @@ Late assignments are not accepted for full grading consideration, with two excep
 If neither of these requirements is satisfied, you may still turn in a late assignment. It’s grade potential decreases by 10% each day it is late. (e.g. 24 hours late or less - 90% maximum grade; 48 hours late or less - 80% max grade; etc)
 
 Keep digital copies of all of your work for this class. This is for both your sake and mine. If I happen to misplace your work, it is up to you to supply me with a new copy of it. Short version: Backup your digital work, scan or photograph your handwritten work.
-
 
 ### How I Will Communicate With You
 Email & D2L: Check it! You are responsible for checking the course D2L website for announcements on a daily basis.
@@ -107,19 +106,20 @@ Dates and topics subject to change
 
 WEEK	| DATE	| Presentations / Work | Assigned
 :----:| ------| -------------------- | --------:
-01	| 01/17/2017	| Introduction to the class | [Resume Assignment](ResumeAssignment.md)
-02	| 01/24/2017	| **Portfolio Presentations** <br> - Team Development <br> - Explanation of meetings with students, progress checks and work time |  [Project Plan Assignment](ProjectPlan.md)
-03	| 01/31/2017	| **Project Plans Due** <br> Meetings with students, progress checks and work time |
-04	| 02/7/2017	| Meetings with students, progress checks and work time | [Weekly Writeups] (https://github.com/rioter00/MAGD488/blob/master/WeeklyWriteup.md)
-05	| 02/14/2017	| Meetings with students, progress checks and work time |
-06	| 02/21/2017	| Meetings with students, progress checks and work time |
-07	| 02/28/2017	| Meetings with students, progress checks and work time |
-08	| 03/07/2017	| - No Class -  |
-09	| 03/14/2017	| **Resume Presentations and Workshop** ||
-10	| 03/21/2017	| Meetings with students, progress checks and work time |
-11	| 03/28/2017	| Meetings with students, progress checks and work time |
-12	| 04/4/2017	|  \**Thanksgiving*\* |
-13	| 04/11/2016	| Meetings with students, progress checks and work time |
-14	| 04/18/2016	| Meetings with students, progress checks and work time |
-15 	| 04/25/2016 	| Meetings with students, progress checks and work time |
-Exam	| /21/2016	| **Final Presentations, Revised Resume due**  |
+00	| 01/17/2017	| - Introduction to the class <br> - Explanation of meetings with students, progress checks and work time | -[Resume Assignment](ResumeAssignment.md) <br> -[Project Plan Assignment](ProjectPlan.md)
+01	| 01/24/2017	|  |  
+02	| 01/31/2017	| **Project Plans Due** <br> Meetings with students, progress checks and work time |
+03	| 02/7/2017	| Meetings with students, progress checks and work time | [Weekly Writeups](https://github.com/rioter00/MAGD488/blob/master/WeeklyWriteup.md)
+04	| 02/14/2017	| Meetings with students, progress checks and work time |
+05	| 02/21/2017	| Meetings with students, progress checks and work time |
+06	| 02/28/2017	| - No Class - |
+07	| 03/07/2017	| - No Class - |
+08	| 03/14/2017	| Meetings with students, progress checks and work time |
+09	| 03/21/2017	| **Spring Break** (No Class)|
+10	| 03/28/2017	| Meetings with students, progress checks and work time |
+11	| 04/04/2017	| Project Presentation and Feedback |
+12	| 04/11/2017	| Project Presentation and Feedback |
+13	| 04/18/2017	| **MAGD Expo Prep** <br> Meetings with students, progress checks and work time |
+14 	| 04/25/2017 	| Meetings with students, progress checks and work time |
+15 	| 05/02/2017 	| Meetings with students, progress checks and work time |
+Exam	| 05/09/2016	| **Final Presentations, Revised Resume due**  |
