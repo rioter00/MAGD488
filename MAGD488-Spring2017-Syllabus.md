@@ -38,6 +38,8 @@ At the end of the course students will have:
 ### Attendance & Student Expectations
 Your presence in class is expected with excused absences being medical and family emergencies (such as a death in the family). You may have two unexcused absences without penalty, but beyond that you will lose 1/3 of a letter grade (A → A- → B+ → B → B- → C+, etc) from your final grade for each unexcused absence.
 
+Students are expected to prepare for class, including bringing research, materials, equipment, and tools to class. Failure to bring proper materials for class, thus preventing the student from doing class work, will result in an absence for that day.
+
 Please don't ask me what you missed. It is your responsibility to check D2L, talk to other students, get notes, check announcements, etc.
 
 Practice respect and empathy with others during discussions and activities.
@@ -102,17 +104,17 @@ F	| 0 - 59	| Poor/Fail
 ## Tentative Schedule
 Dates and topics subject to change
 
-WEEK	| DATE	| Presentations / Work | Assigned
+WEEK	| DATE	| Presentations / Work / Due| Assigned
 :----:| ------| -------------------- | --------:
 00	| 01/17/2017	| - Introduction to the class <br> - Explanation of meetings with students, progress checks and work time | -[Job Seeking Assignment Part 1](JobSeekingAssignment.md) <br> -[Project Plan Assignment](ProjectPlan.md)
 01	| 01/24/2017	| Idea Sharing, Team Forming, Project Planning |  
-02	| 01/31/2017	| **Project Plans Due** <br> Meetings with students, progress checks and work time |
+02	| 01/31/2017	| [**Project Plans Due**](ProjectPlan.md) <br> Meetings with students, progress checks and work time |
 03	| 02/7/2017	| Meetings with students, progress checks and work time | [Weekly Writeups](https://github.com/rioter00/MAGD488/blob/master/WeeklyWriteup.md)
 04	| 02/14/2017	| Meetings with students, progress checks and work time |
-05	| 02/21/2017	| **Job Seeking Assignment Due** <br> Meetings with students, progress checks and work time |
+05	| 02/21/2017	| [**Job Seeking Assignment Due**](JobSeekingAssignment.md) <br> Meetings with students, progress checks and work time |
 06	| 02/28/2017	| - No Class - |
 07	| 03/07/2017	| - No Class - |
-08	| 03/14/2017	| Meetings with students, progress checks and work time | [Job Seeking Assignment Part 1 Due](JobSeekingAssignment.md)
+08	| 03/14/2017	| [**Job Seeking Assignment Part 1 Due**](JobSeekingAssignment.md) <br> Meetings with students, progress checks and work time |
 09	| 03/21/2017	| **Spring Break** (No Class)|
 10	| 03/28/2017	| Meetings with students, progress checks and work time |
 11	| 04/04/2017	| Project Presentation and Feedback |
