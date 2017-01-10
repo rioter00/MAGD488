@@ -10,12 +10,10 @@
 - Contact Details:
 	-	Office Phone: (262) 472-1725
 	- Email: hwangn@uww.edu
-- Meeting times: Wednesday, 6:30pm-9pm
+- Meeting times: Tuesdays (5PM-7:30PM)
 	- Meeting Location: McGraw 127
 	- Exam: Tuesday, May 9, 2017, 4:45-6:45pm [UWW exam schedule](http://www.uww.edu/Documents/registrar/Schedule_of_Classes/Spring_2017/2017%20Spring%20Exam%20Schedule.pdf)
 	- Course Website: https://github.com/rioter00/MAGD488
-
-
 - [UWW Academic Calendars](http://uww-public.courseleaf.com/general-information/academic-legal-policies/academic-calendar/#springterm2016text)
 
 
@@ -75,12 +73,12 @@ The University of Wisconsin-Whitewater is dedicated to a safe, supportive and no
 ## Assignments
 Assignment | Value
 ------- | ------:
-1. Portfolio Presentation | 100
-2. Project Plans | 100 x 2
-3. Weekly Checkins | 20 x 10
-4. Resume Assignment | 100
-5. Final Revised Resume | 100
-6. Final Projects | 300
+1. ProjectPresentation | 100 pts
+2. Project Plans | 100 pts
+3. Weekly Checkins | 20 pts x 10
+4. Resume Assignment | 100 pts
+5. Final Revised Resume | 100 pts
+6. Final Projects | 300 pts
 **Total** | **1000**
 
 It is your responsibility to keep track of your grades over the course of the semester. Your grades are posted on D2L and can be checked at any time. You earn your grades by the degree to which you meet the requirements of the assignments. If you find that you are not doing as well as you would like to be doing, you can meet with me to discuss extra credit projects BEFORE the end of the semester. If you feel that I have made a mistake recording a grade that you earned, I encourage you to email me, politely, so that it can be corrected.  
@@ -106,15 +104,15 @@ Dates and topics subject to change
 
 WEEK	| DATE	| Presentations / Work | Assigned
 :----:| ------| -------------------- | --------:
-00	| 01/17/2017	| - Introduction to the class <br> - Explanation of meetings with students, progress checks and work time | -[Resume Assignment](ResumeAssignment.md) <br> -[Project Plan Assignment](ProjectPlan.md)
-01	| 01/24/2017	|  |  
+00	| 01/17/2017	| - Introduction to the class <br> - Explanation of meetings with students, progress checks and work time | -[Job Seeking Assignment Part 1](JobSeekingAssignment.md) <br> -[Project Plan Assignment](ProjectPlan.md)
+01	| 01/24/2017	| Idea Sharing, Team Forming, Project Planning |  
 02	| 01/31/2017	| **Project Plans Due** <br> Meetings with students, progress checks and work time |
 03	| 02/7/2017	| Meetings with students, progress checks and work time | [Weekly Writeups](https://github.com/rioter00/MAGD488/blob/master/WeeklyWriteup.md)
 04	| 02/14/2017	| Meetings with students, progress checks and work time |
-05	| 02/21/2017	| Meetings with students, progress checks and work time |
+05	| 02/21/2017	| **Job Seeking Assignment Due** <br> Meetings with students, progress checks and work time |
 06	| 02/28/2017	| - No Class - |
 07	| 03/07/2017	| - No Class - |
-08	| 03/14/2017	| Meetings with students, progress checks and work time |
+08	| 03/14/2017	| Meetings with students, progress checks and work time | [Job Seeking Assignment Part 1 Due](JobSeekingAssignment.md)
 09	| 03/21/2017	| **Spring Break** (No Class)|
 10	| 03/28/2017	| Meetings with students, progress checks and work time |
 11	| 04/04/2017	| Project Presentation and Feedback |
@@ -122,4 +120,4 @@ WEEK	| DATE	| Presentations / Work | Assigned
 13	| 04/18/2017	| **MAGD Expo Prep** <br> Meetings with students, progress checks and work time |
 14 	| 04/25/2017 	| Meetings with students, progress checks and work time |
 15 	| 05/02/2017 	| Meetings with students, progress checks and work time |
-Exam	| 05/09/2016	| **Final Presentations, Revised Resume due**  |
+Exam	| 05/09/2016	| **Final Presentations, Revised Resume Part 2 Due**  |
