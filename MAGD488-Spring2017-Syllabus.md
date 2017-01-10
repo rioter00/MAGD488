@@ -75,7 +75,7 @@ The University of Wisconsin-Whitewater is dedicated to a safe, supportive and no
 ## Assignments
 Assignment | Value
 ------- | ------:
-1. ProjectPresentation | 100 pts
+1. Project Presentation | 200 pts
 2. Project Plans | 100 pts
 3. Weekly Checkins | 20 pts x 10
 4. Resume Assignment | 100 pts
@@ -107,9 +107,9 @@ Dates and topics subject to change
 WEEK	| DATE	| Presentations / Work / Due| Assigned
 :----:| ------| -------------------- | --------:
 00	| 01/17/2017	| - Introduction to the class <br> - Explanation of meetings with students, progress checks and work time | -[Job Seeking Assignment Part 1](JobSeekingAssignment.md) <br> -[Project Plan Assignment](ProjectPlan.md)
-01	| 01/24/2017	| Idea Sharing, Team Forming, Project Planning |  
+01	| 01/24/2017	| Idea Sharing, Team Forming, Project Planning |  [Weekly Writeups](https://github.com/rioter00/MAGD488/blob/master/WeeklyWriteup.md)
 02	| 01/31/2017	| [**Project Plans Due**](ProjectPlan.md) <br> Meetings with students, progress checks and work time |
-03	| 02/7/2017	| Meetings with students, progress checks and work time | [Weekly Writeups](https://github.com/rioter00/MAGD488/blob/master/WeeklyWriteup.md)
+03	| 02/7/2017	| Meetings with students, progress checks and work time |
 04	| 02/14/2017	| Meetings with students, progress checks and work time |
 05	| 02/21/2017	| [**Job Seeking Assignment Due**](JobSeekingAssignment.md) <br> Meetings with students, progress checks and work time |
 06	| 02/28/2017	| - No Class - |

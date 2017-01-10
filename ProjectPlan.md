@@ -2,7 +2,7 @@
 
 Due  | Value
 ------- | -------
-September 21 | 100 Points Each
+January 31 | 100 Points
 
 ## Objectives
 + Produce plans for at least **two** portfolio-quality projects
