@@ -122,4 +122,4 @@ WEEK	| DATE	| Presentations / Work / Due| Assigned
 13	| 04/18/2017	| **MAGD Expo Prep** <br> Meetings with students, progress checks and work time |
 14 	| 04/25/2017 	| [**Weekly Writeup Due**](https://github.com/rioter00/MAGD488/blob/master/WeeklyWriteup.md) <br> Meetings with students, progress checks and work time |
 15 	| 05/02/2017 	| [**Weekly Writeup Due**](https://github.com/rioter00/MAGD488/blob/master/WeeklyWriteup.md) <br> Meetings with students, progress checks and work time |
-Exam	| 05/09/2016	| **Final Presentations, Revised Resume Part 2 Due**  |
+Exam	| 05/09/2016	| **Final Presentations, Job Seeking Assignment Part 2 Due**  |
