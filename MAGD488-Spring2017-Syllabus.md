@@ -106,7 +106,7 @@ WEEK	| DATE	| Presentations / Work / Due| Assigned
 02	| 01/31/2017	| [**Project Plans Due**](ProjectPlan.md) <br> Meetings with students, progress checks and work time |
 03	| 02/7/2017	| [**Weekly Writeup (1) Due**](https://github.com/rioter00/MAGD488/blob/master/WeeklyWriteup.md) <br> Meetings with students, progress checks and work time |
 04	| 02/14/2017	| [**Weekly Writeup (2) Due**](https://github.com/rioter00/MAGD488/blob/master/WeeklyWriteup.md) <br>Meetings with students, progress checks and work time |
-05	| 02/21/2017	| 1. [**Job Seeking Assignment Due**](JobSeekingAssignment.md) <br>2. [**Weekly Writeup (3) Due**](https://github.com/rioter00/MAGD488/blob/master/WeeklyWriteup.md) <br> Meetings with students, progress checks and work time |
+05	| 02/21/2017	| [**Weekly Writeup (3) Due**](https://github.com/rioter00/MAGD488/blob/master/WeeklyWriteup.md) <br> Meetings with students, progress checks and work time |
 06	| 02/28/2017	| - No Class - |
 07	| 03/07/2017	| - No Class - |
 08	| 03/14/2017	| 1. [**Job Seeking Assignment Part 1 Due**](JobSeekingAssignment.md) <br> 2. [**Weekly Writeup (4) Due**](https://github.com/rioter00/MAGD488/blob/master/WeeklyWriteup.md) <br>Meetings with students, progress checks and work time |
