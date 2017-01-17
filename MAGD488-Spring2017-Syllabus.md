@@ -10,7 +10,7 @@
 	- Email: hwangn@uww.edu
 - Meeting times: Tuesdays (5PM-7:30PM)
 	- Meeting Location: McGraw 127
-	- Exam: Tuesday, May 9, 2017, 4:45-6:45pm [UWW exam schedule](http://www.uww.edu/Documents/registrar/Schedule_of_Classes/Spring_2017/2017%20Spring%20Exam%20Schedule.pdf)
+	- Exam: Tuesday, May 9, 2017, 4:45-6:45PM [UWW exam schedule](http://www.uww.edu/Documents/registrar/Schedule_of_Classes/Spring_2017/2017%20Spring%20Exam%20Schedule.pdf)
 	- Course Website: https://github.com/rioter00/MAGD488
 - [UWW Academic Calendars](http://uww-public.courseleaf.com/general-information/academic-legal-policies/academic-calendar/#springterm2016text)
 
@@ -63,7 +63,7 @@ This is a media-heavy class, and as such we will be using computers for a large 
 ### Academic Misconduct
 Multimedia fluency and competence make it much easier to engage in academic misconduct. These technologies also provide professors with more sophisticated techniques for detecting misconduct. UWS policy in regard to misconduct is available online (http://www.uww.edu/handbook/student/#14).
 
-All work that you turn in should be your own. This includes text, images, audio and information. When you use work that is the intellectual property of others, this material should be properly identified and cited using either MLA or APA style citations. If you neglect to do this, you will automatically fail the assignment. If you willfully plagiarize the work of others, you will fail the course. Projects created in this course should be created for this course, if you use material used for credit in a previous course, you may be committing academic dishonesty. If you have a question, be sure to discuss with Dr. Nick.
+All work that you turn in should be your own. This includes text, images, audio and information. When you use work that is the intellectual property of others, this material should be properly identified and cited using either MLA or APA style citations. If you neglect to do this, you will automatically fail the assignment. If you willfully plagiarize the work of others, you will fail the course. Projects created in this course should be created for this course only; if you use material used for credit from a course other than MAGD 488, you may be committing academic dishonesty. If you have a question, be sure to discuss with Dr. Nick.
 
 ### UWW Statement
 The University of Wisconsin-Whitewater is dedicated to a safe, supportive and non-discriminatory learning environment.  It is the responsibility of all undergraduate and graduate students to familiarize themselves with University policies regarding Special Accommodations, Academic Misconduct, Religious Beliefs Accommodation, Discrimination and Absence for University Sponsored Events (for details please refer to the Schedule of Classes; the 'Rights and Responsibilities' section of the Undergraduate Catalog; the Academic Requirements and Policies and the Facilities and Services sections of the Graduate Catalog; and the 'Student Academic Disciplinary Procedures (UWS Chapter 14); and the 'Student Nonacademic Disciplinary Procedures' (UWS Chapter 17).
