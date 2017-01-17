@@ -16,7 +16,7 @@ You will plan your project and discuss with Dr. Hwang your project's scope, qual
 	+	Be Digitally produced (Microsoft Word, Google Docs)
 	+ Address stages of _weekly_ progress, for each individual, in a weekly schedule, including the follow aspects.
 		1. 'first prototype'
-		2. 'peer review' presentation - **April 14 or April 21**
+		2. 'peer review' presentation - **April 4 or April 11**
 		3. 'revision'
 		4. 'final'
 
