@@ -2,11 +2,9 @@
 ## Advanced MAGD Team Projects
 ## Syllabus – Spring 2017
 
-- Instructor: Nick Hwang
+- Instructor: Dr. Nick Hwang
 - Office: McGraw 105
 - Office Hours: TBD
-
-
 - Contact Details:
 	-	Office Phone: (262) 472-1725
 	- Email: hwangn@uww.edu
@@ -22,7 +20,7 @@ The goal of this class is to learn effective digital project management and deli
 
 ## Course Objectives
 At the end of the course students will have:
-- Having designed and implemented an online portfolio, students will have created two major projects that will contribute to their body of work
+- Having designed and implemented an online portfolio, students will have created at least one major project that will contribute to their body of work
 - Positioned themselves within the relevant field(s)/market(s) for career opportunities
 - Identify areas where you need to improve your skills, develop a strategy for doing so, and follow through with one set of skills
 - Learn and practice effective digital project management
@@ -38,9 +36,7 @@ At the end of the course students will have:
 ### Attendance & Student Expectations
 Your presence in class is expected with excused absences being medical and family emergencies (such as a death in the family). You may have two unexcused absences without penalty, but beyond that you will lose 1/3 of a letter grade (A → A- → B+ → B → B- → C+, etc) from your final grade for each unexcused absence.
 
-Students are expected to prepare for class, including bringing research, materials, equipment, and tools to class. Failure to bring proper materials for class, thus preventing the student from doing class work, will result in an absence for that day.
-
-Please don't ask me what you missed. It is your responsibility to check D2L, talk to other students, get notes, check announcements, etc.
+Students are expected to prepare for class, including bringing materials, research, equipment, and tools to class. Failure to bring proper materials for class, thus preventing the student from doing class work, will result in an absence for that day.
 
 Practice respect and empathy with others during discussions and activities.
 
@@ -57,7 +53,7 @@ If neither of these requirements is satisfied, you may still turn in a late assi
 Keep digital copies of all of your work for this class. This is for both your sake and mine. If I happen to misplace your work, it is up to you to supply me with a new copy of it. Short version: Backup your digital work, scan or photograph your handwritten work.
 
 ### How I Will Communicate With You
-Email & D2L: Check it! You are responsible for checking the course D2L website for announcements on a daily basis.
+I will mainly communicate with you outside of class through email.
 
 [(How to email your professors)](https://www.insidehighered.com/views/2015/04/16/advice-students-so-they-dont-sound-silly-emails-essay)
 
@@ -67,9 +63,9 @@ This is a media-heavy class, and as such we will be using computers for a large 
 ### Academic Misconduct
 Multimedia fluency and competence make it much easier to engage in academic misconduct. These technologies also provide professors with more sophisticated techniques for detecting misconduct. UWS policy in regard to misconduct is available online (http://www.uww.edu/handbook/student/#14).
 
-All work that you turn in should be your own. This includes text, images, audio and information. When you use work that is the intellectual property of others, this material should be properly identified and cited using either MLA or APA style citations. If you neglect to do this, you will automatically fail the assignment. If you willfully plagiarize the work of others, you will fail the course.
+All work that you turn in should be your own. This includes text, images, audio and information. When you use work that is the intellectual property of others, this material should be properly identified and cited using either MLA or APA style citations. If you neglect to do this, you will automatically fail the assignment. If you willfully plagiarize the work of others, you will fail the course. Projects created in this course should be created for this course, if you use material used for credit in a previous course, you may be committing academic dishonesty. If you have a question, be sure to discuss with Dr. Nick.
 
-## UWW Statement
+### UWW Statement
 The University of Wisconsin-Whitewater is dedicated to a safe, supportive and non-discriminatory learning environment.  It is the responsibility of all undergraduate and graduate students to familiarize themselves with University policies regarding Special Accommodations, Academic Misconduct, Religious Beliefs Accommodation, Discrimination and Absence for University Sponsored Events (for details please refer to the Schedule of Classes; the 'Rights and Responsibilities' section of the Undergraduate Catalog; the Academic Requirements and Policies and the Facilities and Services sections of the Graduate Catalog; and the 'Student Academic Disciplinary Procedures (UWS Chapter 14); and the 'Student Nonacademic Disciplinary Procedures' (UWS Chapter 17).
 
 ## Assignments
@@ -77,11 +73,10 @@ Assignment | Value
 ------- | ------:
 1. Project Presentation | 200 pts
 2. Project Plans | 100 pts
-3. Weekly Checkins | 20 pts x 10
-4. Job Seeking Assignment | 100 pts x 2
-5. Final Revised Resume | 100 pts
+3. Weekly Checkins | 20 pts x 9
+4. Job Seeking Assignment | 200 pts x 2
 6. Final Projects | 300 pts
-**Total** | **1100**
+**Total** | **1080**
 
 It is your responsibility to keep track of your grades over the course of the semester. Your grades are posted on D2L and can be checked at any time. You earn your grades by the degree to which you meet the requirements of the assignments. If you find that you are not doing as well as you would like to be doing, you can meet with me to discuss extra credit projects BEFORE the end of the semester. If you feel that I have made a mistake recording a grade that you earned, I encourage you to email me, politely, so that it can be corrected.  
 
@@ -109,17 +104,17 @@ WEEK	| DATE	| Presentations / Work / Due| Assigned
 00	| 01/17/2017	| 1. Introduction to the class <br> 2. Explanation of meetings with students, progress checks and work time | 1. [Job Seeking Assignment Part 1](JobSeekingAssignment.md) <br> 2. [Project Plan Assignment](ProjectPlan.md)
 01	| 01/24/2017	| Idea Sharing, Team Forming, Project Planning |  [Weekly Writeups](https://github.com/rioter00/MAGD488/blob/master/WeeklyWriteup.md)
 02	| 01/31/2017	| [**Project Plans Due**](ProjectPlan.md) <br> Meetings with students, progress checks and work time |
-03	| 02/7/2017	| [**Weekly Writeup Due**](https://github.com/rioter00/MAGD488/blob/master/WeeklyWriteup.md) <br> Meetings with students, progress checks and work time |
-04	| 02/14/2017	| [**Weekly Writeup Due**](https://github.com/rioter00/MAGD488/blob/master/WeeklyWriteup.md) <br>Meetings with students, progress checks and work time |
-05	| 02/21/2017	| 1. [**Job Seeking Assignment Due**](JobSeekingAssignment.md) <br>2. [**Weekly Writeup Due**](https://github.com/rioter00/MAGD488/blob/master/WeeklyWriteup.md) <br> Meetings with students, progress checks and work time |
+03	| 02/7/2017	| [**Weekly Writeup (1) Due**](https://github.com/rioter00/MAGD488/blob/master/WeeklyWriteup.md) <br> Meetings with students, progress checks and work time |
+04	| 02/14/2017	| [**Weekly Writeup (2) Due**](https://github.com/rioter00/MAGD488/blob/master/WeeklyWriteup.md) <br>Meetings with students, progress checks and work time |
+05	| 02/21/2017	| 1. [**Job Seeking Assignment Due**](JobSeekingAssignment.md) <br>2. [**Weekly Writeup (3) Due**](https://github.com/rioter00/MAGD488/blob/master/WeeklyWriteup.md) <br> Meetings with students, progress checks and work time |
 06	| 02/28/2017	| - No Class - |
 07	| 03/07/2017	| - No Class - |
-08	| 03/14/2017	| 1. [**Job Seeking Assignment Part 1 Due**](JobSeekingAssignment.md) <br> 2. [**Weekly Writeup Due**](https://github.com/rioter00/MAGD488/blob/master/WeeklyWriteup.md) <br>Meetings with students, progress checks and work time |
+08	| 03/14/2017	| 1. [**Job Seeking Assignment Part 1 Due**](JobSeekingAssignment.md) <br> 2. [**Weekly Writeup (4) Due**](https://github.com/rioter00/MAGD488/blob/master/WeeklyWriteup.md) <br>Meetings with students, progress checks and work time |
 09	| 03/21/2017	| **Spring Break**  <br> - No Class -|
-10	| 03/28/2017	| [**Weekly Writeup Due**](https://github.com/rioter00/MAGD488/blob/master/WeeklyWriteup.md) <br> Meetings with students, progress checks and work time |
-11	| 04/04/2017	| [**Weekly Writeup Due**](https://github.com/rioter00/MAGD488/blob/master/WeeklyWriteup.md) <br> Project Presentation and Feedback |
-12	| 04/11/2017	| [**Weekly Writeup Due**](https://github.com/rioter00/MAGD488/blob/master/WeeklyWriteup.md) <br> Project Presentation and Feedback |
+10	| 03/28/2017	| [**Weekly Writeup (5) Due**](https://github.com/rioter00/MAGD488/blob/master/WeeklyWriteup.md) <br> Meetings with students, progress checks and work time |
+11	| 04/04/2017	| [**Weekly Writeup (6) Due**](https://github.com/rioter00/MAGD488/blob/master/WeeklyWriteup.md) <br> Project Presentation and Feedback |
+12	| 04/11/2017	| [**Weekly Writeup (7) Due**](https://github.com/rioter00/MAGD488/blob/master/WeeklyWriteup.md) <br> Project Presentation and Feedback |
 13	| 04/18/2017	| **MAGD Expo Prep** <br> Meetings with students, progress checks and work time |
-14 	| 04/25/2017 	| [**Weekly Writeup Due**](https://github.com/rioter00/MAGD488/blob/master/WeeklyWriteup.md) <br> Meetings with students, progress checks and work time |
-15 	| 05/02/2017 	| [**Weekly Writeup Due**](https://github.com/rioter00/MAGD488/blob/master/WeeklyWriteup.md) <br> Meetings with students, progress checks and work time |
+14 	| 04/25/2017 	| [**Weekly Writeup (8) Due**](https://github.com/rioter00/MAGD488/blob/master/WeeklyWriteup.md) <br> Meetings with students, progress checks and work time |
+15 	| 05/02/2017 	| [**Weekly Writeup (9) Due**](https://github.com/rioter00/MAGD488/blob/master/WeeklyWriteup.md) <br> Meetings with students, progress checks and work time |
 Exam	| 05/09/2016	| **Final Presentations, Job Seeking Assignment Part 2 Due**  |

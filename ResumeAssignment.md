@@ -1,4 +1,4 @@
-# MAGD 488 - RESUME BUILDING ASSIGNMENT 
+# MAGD 488 - RESUME BUILDING ASSIGNMENT
 
 [Part One](#part-one-100-points)
 
@@ -26,7 +26,7 @@ Use any resource to find two recent job postings. Print out the postings. Highli
 
 ### 2. On a separate paper answer these questions, referencing both job postings - 20 points
 1. What aspects of this job are enticing to you?
-2. At present, do you feel qualified enough to apply for either posting? Give supporting reasons. 
+2. At present, do you feel qualified enough to apply for either posting? Give supporting reasons.
 3. Are there required qualifications that you lack? Which ones?
 4. Can you see yourself acquiring a majority of those qualifications?
 
@@ -38,13 +38,13 @@ We will share our resumes in class and discuss strategies on making them more ef
 
 * * *
 
-### Part Two: 100 Points
+### Part Two: 200 Points
 
-### 1. Revisions and Updates
-Based on the feedback from instructor and peers, make appropriate changes to your resumes. - 70 points
+### 1. Revisions and Updates - 70 points 
+Based on the feedback from instructor, make appropriate changes to your resumes and cover letters.
 
 ### 2. On a separate paper answer these questions, referencing both job postings - 30 points
 1. What changes did you make to your resumes? Why?
 2. How do the changes in your resumes help you appear as a better candidate?
 
-### 3. Bring the two job postings, original two resumes, and revised resumes to class.
+### 3. Bring the two job postings, original two resumes and cover letters, and revised resumes and cover letters to class.
