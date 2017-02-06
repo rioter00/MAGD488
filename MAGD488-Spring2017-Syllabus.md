@@ -95,12 +95,12 @@ D+	| 67 - 69	| Below average performance.
 D	| 64 - 66	| Below average performance.
 D-	| 60 - 63	| Below average performance.
 F	| 0 - 59	| Poor/Fail
-
+
 ## Tentative Schedule
 Dates and topics subject to change
 
 WEEK	| DATE	| Presentations / Work / Due| Assigned
-:----:| ------| -------------------- | --------:
+----| ------| -------------------- | --------:
 00	| 01/17/2017	| 1. Introduction to the class <br> 2. Explanation of meetings with students, progress checks and work time | 1. [Job Seeking Assignment Part 1](JobSeekingAssignment.md) <br> 2. [Project Plan Assignment](ProjectPlan.md)
 01	| 01/24/2017	| Idea Sharing, Team Forming, Project Planning |  [Weekly Writeups](https://github.com/rioter00/MAGD488/blob/master/WeeklyWriteup.md)
 02	| 01/31/2017	| [**Project Plans Due**](ProjectPlan.md) <br> Meetings with students, progress checks and work time |
