@@ -1,6 +1,6 @@
 # MAGD 488 - JOB SEEKING ASSIGNMENT
 
-### [Part One](#part-one-100-points) - 200 Points - Due: February 21, 2017
+### [Part One](#part-one-100-points) - 200 Points - Due: March 14, 2017
 
 ### [Part Two](#part-two-100-points) - 200 Points - Due: May 9, 2017
 
